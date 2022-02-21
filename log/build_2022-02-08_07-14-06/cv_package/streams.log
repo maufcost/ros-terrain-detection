@@ -1,0 +1,24 @@
+[1.832s] Invoking command in '/home/mauricio/Desktop/cv_ws/src/cv_package': PYTHONPATH=/home/mauricio/Desktop/cv_ws/install/cv_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_package build --build-base /home/mauricio/Desktop/cv_ws/build/cv_package/build install --prefix /home/mauricio/Desktop/cv_ws/install/cv_package --record /home/mauricio/Desktop/cv_ws/build/cv_package/install.log --single-version-externally-managed
+[2.289s] /usr/local/lib/python3.8/dist-packages/setuptools/dist.py:731: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[2.291s]   warnings.warn(
+[2.291s] /usr/local/lib/python3.8/dist-packages/setuptools/dist.py:731: UserWarning: Usage of dash-separated 'install-scripts' will not be supported in future versions. Please use the underscore name 'install_scripts' instead
+[2.291s]   warnings.warn(
+[2.375s] running egg_info
+[2.376s] writing ../../build/cv_package/cv_package.egg-info/PKG-INFO
+[2.378s] writing dependency_links to ../../build/cv_package/cv_package.egg-info/dependency_links.txt
+[2.378s] writing entry points to ../../build/cv_package/cv_package.egg-info/entry_points.txt
+[2.380s] writing requirements to ../../build/cv_package/cv_package.egg-info/requires.txt
+[2.381s] writing top-level names to ../../build/cv_package/cv_package.egg-info/top_level.txt
+[2.388s] reading manifest file '../../build/cv_package/cv_package.egg-info/SOURCES.txt'
+[2.401s] running build
+[2.401s] running build_py
+[2.403s] running install
+[2.403s] /usr/local/lib/python3.8/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.412s]   warnings.warn(
+[2.436s] running install_lib
+[2.444s] running install_data
+[2.445s] running install_egg_info
+[2.464s] running install_scripts
+[2.502s] Installing img_publisher script to /home/mauricio/Desktop/cv_ws/install/cv_package/lib/cv_package
+[2.504s] Installing img_subscriber script to /home/mauricio/Desktop/cv_ws/install/cv_package/lib/cv_package
+[2.628s] Invoked command in '/home/mauricio/Desktop/cv_ws/src/cv_package' returned '0': PYTHONPATH=/home/mauricio/Desktop/cv_ws/install/cv_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_package build --build-base /home/mauricio/Desktop/cv_ws/build/cv_package/build install --prefix /home/mauricio/Desktop/cv_ws/install/cv_package --record /home/mauricio/Desktop/cv_ws/build/cv_package/install.log --single-version-externally-managed

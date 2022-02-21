@@ -1,0 +1,27 @@
+[1.719s] Invoking command in '/home/mauricio/Desktop/cv_ws/src/cv_package': PYTHONPATH=/home/mauricio/Desktop/cv_ws/install/cv_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_package build --build-base /home/mauricio/Desktop/cv_ws/build/cv_package/build install --prefix /home/mauricio/Desktop/cv_ws/install/cv_package --record /home/mauricio/Desktop/cv_ws/build/cv_package/install.log --single-version-externally-managed
+[2.201s] /usr/local/lib/python3.8/dist-packages/setuptools/dist.py:731: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[2.202s]   warnings.warn(
+[2.203s] /usr/local/lib/python3.8/dist-packages/setuptools/dist.py:731: UserWarning: Usage of dash-separated 'install-scripts' will not be supported in future versions. Please use the underscore name 'install_scripts' instead
+[2.204s]   warnings.warn(
+[2.279s] running egg_info
+[2.281s] writing ../../build/cv_package/cv_package.egg-info/PKG-INFO
+[2.284s] writing dependency_links to ../../build/cv_package/cv_package.egg-info/dependency_links.txt
+[2.289s] writing entry points to ../../build/cv_package/cv_package.egg-info/entry_points.txt
+[2.297s] writing requirements to ../../build/cv_package/cv_package.egg-info/requires.txt
+[2.297s] writing top-level names to ../../build/cv_package/cv_package.egg-info/top_level.txt
+[2.313s] reading manifest file '../../build/cv_package/cv_package.egg-info/SOURCES.txt'
+[2.318s] running build
+[2.319s] running build_py
+[2.323s] running install
+[2.323s] /usr/local/lib/python3.8/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+[2.323s]   warnings.warn(
+[2.349s] running install_lib
+[2.351s] copying /home/mauricio/Desktop/cv_ws/build/cv_package/build/lib/cv_package/webcam_sub.py -> /home/mauricio/Desktop/cv_ws/install/cv_package/lib/python3.8/site-packages/cv_package
+[2.351s] copying /home/mauricio/Desktop/cv_ws/build/cv_package/build/lib/cv_package/webcam_pub.py -> /home/mauricio/Desktop/cv_ws/install/cv_package/lib/python3.8/site-packages/cv_package
+[2.354s] Sorry: IndentationError: expected an indented block (webcam_pub.py, line 55)
+[2.354s] running install_data
+[2.360s] running install_egg_info
+[2.368s] running install_scripts
+[2.449s] Installing img_publisher script to /home/mauricio/Desktop/cv_ws/install/cv_package/lib/cv_package
+[2.449s] Installing img_subscriber script to /home/mauricio/Desktop/cv_ws/install/cv_package/lib/cv_package
+[2.568s] Invoked command in '/home/mauricio/Desktop/cv_ws/src/cv_package' returned '0': PYTHONPATH=/home/mauricio/Desktop/cv_ws/install/cv_package/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/cv_package build --build-base /home/mauricio/Desktop/cv_ws/build/cv_package/build install --prefix /home/mauricio/Desktop/cv_ws/install/cv_package --record /home/mauricio/Desktop/cv_ws/build/cv_package/install.log --single-version-externally-managed

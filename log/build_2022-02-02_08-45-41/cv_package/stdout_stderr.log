@@ -1,0 +1,22 @@
+/usr/local/lib/python3.8/dist-packages/setuptools/dist.py:731: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+  warnings.warn(
+/usr/local/lib/python3.8/dist-packages/setuptools/dist.py:731: UserWarning: Usage of dash-separated 'install-scripts' will not be supported in future versions. Please use the underscore name 'install_scripts' instead
+  warnings.warn(
+running egg_info
+writing ../../build/cv_package/cv_package.egg-info/PKG-INFO
+writing dependency_links to ../../build/cv_package/cv_package.egg-info/dependency_links.txt
+writing entry points to ../../build/cv_package/cv_package.egg-info/entry_points.txt
+writing requirements to ../../build/cv_package/cv_package.egg-info/requires.txt
+writing top-level names to ../../build/cv_package/cv_package.egg-info/top_level.txt
+reading manifest file '../../build/cv_package/cv_package.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+/usr/local/lib/python3.8/dist-packages/setuptools/command/install.py:34: SetuptoolsDeprecationWarning: setup.py install is deprecated. Use build and pip and other standards-based tools.
+  warnings.warn(
+running install_lib
+running install_data
+running install_egg_info
+running install_scripts
+Installing img_publisher script to /home/mauricio/Desktop/cv_ws/install/cv_package/lib/cv_package
+Installing img_subscriber script to /home/mauricio/Desktop/cv_ws/install/cv_package/lib/cv_package
